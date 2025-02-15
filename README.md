@@ -3,7 +3,7 @@
 The classic snake game that runs in command line interface, mode by using python.
 
 <div align="center">
-<img src="snake.jpg" alt="Snake Game image">
+<img src="snake.png" alt="Snake Game image">
 
 Simple Snake Game
 </div>
